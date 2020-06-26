@@ -35,7 +35,7 @@ If you have existing rows in your table and want to add a uniqueness constraint,
 
 ## Notes
 
-This isn't a lot of code, so you should probably be just copying the field to your project if you want customisations, rather than proposing changes.
+This isn't a lot of code, so you might probably want to just copy the code to your project if you want customisations.
 
 ## License
 
